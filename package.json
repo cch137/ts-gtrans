@@ -17,7 +17,7 @@
     "node": ">=21"
   },
   "dependencies": {
-    "@cch137/utils": "^0.0.139",
+    "@cch137/axios-session": "^0.0.2",
     "axios": "^1.6.8",
     "qs": "^6.12.1"
   }
